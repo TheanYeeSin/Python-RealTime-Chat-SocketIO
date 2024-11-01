@@ -19,3 +19,5 @@ python socketio_client.py
 ```
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/01dbfe64-4090-49a5-a745-631d61428ee4)
